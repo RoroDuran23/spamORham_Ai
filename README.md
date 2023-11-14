@@ -1,2 +1,15 @@
-# spamORham_Ai
-This repository features an AI project where I developed a Naive Bayes classifier to identify spam in text messages. It includes a manually-coded model and a Multinomial Naive Bayes model, both evaluated for accuracy, precision, recall, and F1 score using a Python notebook.
+ # Project 3 - Spam or Ham
+
+## Identifying Information
+
+* Name: Rodrigo Durán
+* Email: roduran72@gmail.com
+* Course: CPSC393
+* Assignment: Project 3
+
+## Source Files
+spamHam_duran_project3.ipynb
+
+## Known Errors
+
+* N/A
